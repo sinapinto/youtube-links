@@ -85,13 +85,18 @@ export default [
     tags: ['lol', 'haha'],
   },
   {
-    url: 'https://www.youtube.com/watch?v=9BV4heWMFMA',
-    title: 'VID 0350',
-    tags: ['spear', 'random', 'wtf'],
-  },
-  {
     url: 'https://www.youtube.com/watch?v=Vw-ov-w_tdI',
     title: 'Dancing Alien Remix',
+    tags: ['dance', 'party'],
+  },
+  {
+    url: 'https://www.youtube.com/watch?v=2mzEdc1ZK4c',
+    title: 'That',
+    tags: ['boy'],
+  },
+  {
+    url: 'https://www.youtube.com/watch?v=cAe-0sullHg',
+    title: '????????????',
     tags: ['dance', 'party'],
   },
 ];
